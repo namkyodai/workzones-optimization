@@ -1,0 +1,6 @@
+This program and the routing algorithm was created by Charel Eicher (master student at the ETH) under the supervision of Nam Lethanh
+
+The rougthing algorithm was coded in Matlab, anyone can use the program and any part of it at his/her own risk.
+
+The main program was made in excel and the optimization was set up using the commercial version of What's best optimization tool.
+
